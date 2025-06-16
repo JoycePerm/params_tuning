@@ -1,0 +1,28 @@
+# 参数初始化
+
+# WantedEffect(想要的效果)
+WF : 1
+
+###条件参数
+# (激光器功率)
+LaserPower : 40000
+# (材料厚度)
+Thickness : 16
+# (喷嘴直径)
+NozzleDiameter : 1.4
+# (气体类型) int 空，氧，氮，高压氮
+GasType : 1
+# (喷嘴类型)  {0: "单层", 1: "增压", 2: "双层"}
+NozzleName : 0
+
+###切割参数
+#（切割速度）
+WorkSpeed : 13.3
+#（实际功率）
+RealPower : 11200
+#（焦点）
+Focus : 15
+#（喷嘴高度）
+CutHeight : 0.3
+# (气压）
+GasPressure : 0.9

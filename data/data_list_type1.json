@@ -1,0 +1,3722 @@
+[
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.8,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 17.5,
+            "CutHeight": 0.45,
+            "Focus": 20,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 18000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "9",
+        "Env": "0"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.8,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 14.5,
+            "CutHeight": 0.45,
+            "Focus": 20,
+            "GasPressure": 0.65,
+            "PwmFreq": 5000,
+            "RealPower": 18000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "9",
+        "Env": "0"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 36,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 15,
+            "CutHeight": 0.45,
+            "Focus": 20,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 18000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "10",
+        "Env": "0"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 36,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 15,
+            "CutHeight": 0.45,
+            "Focus": 20,
+            "GasPressure": 0.57,
+            "PwmFreq": 5000,
+            "RealPower": 18000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "10",
+        "Env": "0"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 36,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 15,
+            "CutHeight": 0.45,
+            "Focus": 20,
+            "GasPressure": 0.57,
+            "PwmFreq": 5000,
+            "RealPower": 18000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "10",
+        "Env": "0"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 60,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 4.66666667,
+            "CutHeight": 0.3,
+            "Focus": 20,
+            "GasPressure": 1.25,
+            "PwmFreq": 5000,
+            "RealPower": 30000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "15",
+        "Env": "0"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 2,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 16,
+            "NozzleDiameter": 1.2,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 26.6666667,
+            "CutHeight": 0.6,
+            "Focus": 12,
+            "GasPressure": 0.9,
+            "PwmFreq": 5000,
+            "RealPower": 11000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 3,
+            "score": 3,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "19",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 2,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 16,
+            "NozzleDiameter": 1.2,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 26.6666667,
+            "CutHeight": 0.6,
+            "Focus": 14,
+            "GasPressure": 0.65,
+            "PwmFreq": 5000,
+            "RealPower": 11000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 2,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "19",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 2,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 16,
+            "NozzleDiameter": 1.2,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 28.3333333,
+            "CutHeight": 0.6,
+            "Focus": 14,
+            "GasPressure": 0.55,
+            "PwmFreq": 5000,
+            "RealPower": 11000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "19",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 2,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 16,
+            "NozzleDiameter": 1.2,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 30,
+            "CutHeight": 0.6,
+            "Focus": 14,
+            "GasPressure": 0.55,
+            "PwmFreq": 5000,
+            "RealPower": 11000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 5,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 2,
+            "fluidSlag": 4,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "19",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 27.5,
+            "CutHeight": 0.3,
+            "Focus": 15,
+            "GasPressure": 0.55,
+            "PwmFreq": 5000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 1,
+            "fluidSlag": 5,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "20",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 25,
+            "CutHeight": 0.3,
+            "Focus": 15,
+            "GasPressure": 0.65,
+            "PwmFreq": 5000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "20",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 25,
+            "CutHeight": 0.3,
+            "Focus": 13.5,
+            "GasPressure": 1.3,
+            "PwmFreq": 5000,
+            "RealPower": 14000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 1,
+            "fluidSlag": 5,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "20",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 25,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 21.6666667,
+            "CutHeight": 0.3,
+            "Focus": 15,
+            "GasPressure": 0.7,
+            "PwmFreq": 5000,
+            "RealPower": 13000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 2,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "21",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 25,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 21.6666667,
+            "CutHeight": 0.3,
+            "Focus": 15,
+            "GasPressure": 0.8,
+            "PwmFreq": 5000,
+            "RealPower": 13000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 2,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "21",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 25,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 22.5,
+            "CutHeight": 0.3,
+            "Focus": 15,
+            "GasPressure": 0.8,
+            "PwmFreq": 5000,
+            "RealPower": 14000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "21",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 25,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 20,
+            "CutHeight": 0.3,
+            "Focus": 13.5,
+            "GasPressure": 1,
+            "PwmFreq": 5000,
+            "RealPower": 14000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 2,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "21",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 25,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 20,
+            "CutHeight": 0.3,
+            "Focus": 12,
+            "GasPressure": 1,
+            "PwmFreq": 5000,
+            "RealPower": 14000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 5,
+            "score": 1,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "21",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 25,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 20,
+            "CutHeight": 0.3,
+            "Focus": 14,
+            "GasPressure": 1.2,
+            "PwmFreq": 5000,
+            "RealPower": 14000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 5,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 1,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "21",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 18.3333333,
+            "CutHeight": 0.3,
+            "Focus": 16.5,
+            "GasPressure": 1,
+            "PwmFreq": 5000,
+            "RealPower": 16000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 1,
+            "fluidSlag": 5,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "22",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 18.3333333,
+            "CutHeight": 0.3,
+            "Focus": 16.5,
+            "GasPressure": 1,
+            "PwmFreq": 5000,
+            "RealPower": 16000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 1,
+            "fluidSlag": 5,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "22",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 18.3333333,
+            "CutHeight": 0.3,
+            "Focus": 17,
+            "GasPressure": 0.9,
+            "PwmFreq": 5000,
+            "RealPower": 16000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "22",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 20,
+            "CutHeight": 0.3,
+            "Focus": 17,
+            "GasPressure": 1.2,
+            "PwmFreq": 5000,
+            "RealPower": 16000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 1,
+            "fluidSlag": 4,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "22",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 20,
+            "CutHeight": 0.3,
+            "Focus": 17.5,
+            "GasPressure": 0.75,
+            "PwmFreq": 5000,
+            "RealPower": 20000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "22",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 13.3333333,
+            "CutHeight": 0.5,
+            "Focus": 15,
+            "GasPressure": 0.75,
+            "PwmFreq": 5000,
+            "RealPower": 20000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 3,
+            "score": 2,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 3,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "22",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 35,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 18.3333333,
+            "CutHeight": 0.3,
+            "Focus": 19,
+            "GasPressure": 0.7,
+            "PwmFreq": 5000,
+            "RealPower": 20000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 3,
+            "score": 3,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "23",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 35,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 18.3333333,
+            "CutHeight": 0.3,
+            "Focus": 19,
+            "GasPressure": 0.55,
+            "PwmFreq": 5000,
+            "RealPower": 20000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 2,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "23",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 35,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 17.5,
+            "CutHeight": 0.3,
+            "Focus": 20,
+            "GasPressure": 0.55,
+            "PwmFreq": 5000,
+            "RealPower": 20000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "23",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 35,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 19.1666667,
+            "CutHeight": 0.3,
+            "Focus": 18,
+            "GasPressure": 0.95,
+            "PwmFreq": 5000,
+            "RealPower": 20000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 3,
+            "score": 3,
+            "fluidSlag": 3,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "23",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 35,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 15,
+            "CutHeight": 0.3,
+            "Focus": 18,
+            "GasPressure": 1.2,
+            "PwmFreq": 5000,
+            "RealPower": 20000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 1,
+            "fluidSlag": 5,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "23",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 20,
+            "CutHeight": 0.3,
+            "Focus": 19.6,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 10500.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 1,
+            "breach": 3,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "38",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 19.1666667,
+            "CutHeight": 0.3,
+            "Focus": 19.6,
+            "GasPressure": 0.55,
+            "PwmFreq": 5000,
+            "RealPower": 10500.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 2,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "38",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.8,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 20.5,
+            "CutHeight": 0.45,
+            "Focus": 20,
+            "GasPressure": 0.48,
+            "PwmFreq": 5000,
+            "RealPower": 18000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "42",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.8,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 20.5,
+            "CutHeight": 0.45,
+            "Focus": 20,
+            "GasPressure": 0.48,
+            "PwmFreq": 5000,
+            "RealPower": 18000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 1,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 1
+        },
+        "Id": "42",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.8,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 17,
+            "CutHeight": 0.45,
+            "Focus": 19,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 18000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "42",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.8,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 17.5,
+            "CutHeight": 0.45,
+            "Focus": 20,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 18000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "43",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.8,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 14.5,
+            "CutHeight": 0.45,
+            "Focus": 20,
+            "GasPressure": 0.65,
+            "PwmFreq": 5000,
+            "RealPower": 18000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "43",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 36,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 15,
+            "CutHeight": 0.45,
+            "Focus": 20,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 18000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "44",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 36,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 15,
+            "CutHeight": 0.45,
+            "Focus": 20,
+            "GasPressure": 0.57,
+            "PwmFreq": 5000,
+            "RealPower": 18000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "44",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 36,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 15,
+            "CutHeight": 0.45,
+            "Focus": 20,
+            "GasPressure": 0.57,
+            "PwmFreq": 5000,
+            "RealPower": 18000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "44",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 50,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 8.66666667,
+            "CutHeight": 0.3,
+            "Focus": 22,
+            "GasPressure": 1.2,
+            "PwmFreq": 5000,
+            "RealPower": 30000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "47",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 50,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 10,
+            "CutHeight": 0.3,
+            "Focus": 22,
+            "GasPressure": 1.15,
+            "PwmFreq": 5000,
+            "RealPower": 30000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "47",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 60,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 4.66666667,
+            "CutHeight": 0.3,
+            "Focus": 20,
+            "GasPressure": 1.25,
+            "PwmFreq": 5000,
+            "RealPower": 30000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "49",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 0,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 8,
+            "NozzleDiameter": 3,
+            "TimeStay": 100,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 33,
+            "CutHeight": 0.5,
+            "Focus": 10,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 6000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 1,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 1
+        },
+        "Id": "53",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 0,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 8,
+            "NozzleDiameter": 3,
+            "TimeStay": 100,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 33.3333333,
+            "CutHeight": 0.5,
+            "Focus": 11,
+            "GasPressure": 0.5,
+            "PwmFreq": 5000,
+            "RealPower": 6000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 3,
+            "breach": 2,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 1
+        },
+        "Id": "53",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 0,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 8,
+            "NozzleDiameter": 3,
+            "TimeStay": 100,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 33.3333333,
+            "CutHeight": 0.3,
+            "Focus": 11,
+            "GasPressure": 0.5,
+            "PwmFreq": 5000,
+            "RealPower": 6000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 2,
+            "breach": 1,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "53",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 0,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 8,
+            "NozzleDiameter": 3,
+            "TimeStay": 100,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 33.3333333,
+            "CutHeight": 0.8,
+            "Focus": 11,
+            "GasPressure": 0.5,
+            "PwmFreq": 5000,
+            "RealPower": 6000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "53",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 2,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 12,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 30,
+            "CutHeight": 0.4,
+            "Focus": 8,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 7200.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 3,
+            "breach": 0,
+            "score": 3,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "56",
+        "Env": "2"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 2,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 12,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 30,
+            "CutHeight": 0.4,
+            "Focus": 14,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 7200.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "56",
+        "Env": "2"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 22,
+            "CutHeight": 0.4,
+            "Focus": 14,
+            "GasPressure": 0.6,
+            "PwmFreq": 1000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 1,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "61",
+        "Env": "2"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 22,
+            "CutHeight": 0.4,
+            "Focus": 16,
+            "GasPressure": 0.6,
+            "PwmFreq": 1000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "61",
+        "Env": "2"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 8.33333333,
+            "CutHeight": 0.3,
+            "Focus": 17,
+            "GasPressure": 0.63,
+            "PwmFreq": 5000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 3,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 3,
+            "overBreach": 0
+        },
+        "Id": "63",
+        "Env": "2"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 9.16666667,
+            "CutHeight": 0.3,
+            "Focus": 16,
+            "GasPressure": 0.8,
+            "PwmFreq": 5000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "63",
+        "Env": "2"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 8.33333333,
+            "CutHeight": 0.3,
+            "Focus": 17,
+            "GasPressure": 0.68,
+            "PwmFreq": 5000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 2,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "63",
+        "Env": "2"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 12,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 31.6666667,
+            "CutHeight": 0.3,
+            "Focus": 10,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 8000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 3,
+            "breach": 0,
+            "score": 3,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "80",
+        "Env": "4"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 12,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 31.6666667,
+            "CutHeight": 0.3,
+            "Focus": 14,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 8000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 1,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "80",
+        "Env": "4"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 12,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 28.3333333,
+            "CutHeight": 0.3,
+            "Focus": 14,
+            "GasPressure": 0.55,
+            "PwmFreq": 5000,
+            "RealPower": 9000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 2,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "80",
+        "Env": "4"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 12,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 28.3333333,
+            "CutHeight": 0.3,
+            "Focus": 13,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 9000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 3,
+            "score": 3,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "80",
+        "Env": "4"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 2,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 14,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 25,
+            "CutHeight": 0.35,
+            "Focus": 14,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 8000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 1,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "83",
+        "Env": "4"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 2,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 14,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 25,
+            "CutHeight": 0.6,
+            "Focus": 14,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 8000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "83",
+        "Env": "4"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 2,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 23.3333333,
+            "CutHeight": 0.8,
+            "Focus": 14.5,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 1,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "88",
+        "Env": "4"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 2,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 23.3333333,
+            "CutHeight": 0.8,
+            "Focus": 14.5,
+            "GasPressure": 0.55,
+            "PwmFreq": 5000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "88",
+        "Env": "4"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 2,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 23.3333333,
+            "CutHeight": 0.8,
+            "Focus": 14.5,
+            "GasPressure": 0.5,
+            "PwmFreq": 5000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 1,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "88",
+        "Env": "4"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 20,
+            "CutHeight": 0.4,
+            "Focus": 15,
+            "GasPressure": 1.1,
+            "PwmFreq": 5000,
+            "RealPower": 20000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 1,
+            "breach": 0,
+            "score": 3,
+            "fluidSlag": 2,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "91",
+        "Env": "4"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 20,
+            "CutHeight": 0.4,
+            "Focus": 16,
+            "GasPressure": 0.9,
+            "PwmFreq": 5000,
+            "RealPower": 20000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 1,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "91",
+        "Env": "4"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 20,
+            "CutHeight": 0.3,
+            "Focus": 16,
+            "GasPressure": 0.8,
+            "PwmFreq": 5000,
+            "RealPower": 20000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 2,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "91",
+        "Env": "4"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 30,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 18.3333333,
+            "CutHeight": 0.3,
+            "Focus": 17,
+            "GasPressure": 0.9,
+            "PwmFreq": 5000,
+            "RealPower": 20000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "91",
+        "Env": "4"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 18,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 25,
+            "CutHeight": 0.3,
+            "Focus": 17,
+            "GasPressure": 0.7,
+            "PwmFreq": 5000,
+            "RealPower": 10500.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 1,
+            "fluidSlag": 4,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "103",
+        "Env": "5"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 18,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 25,
+            "CutHeight": 0.3,
+            "Focus": 17,
+            "GasPressure": 0.7,
+            "PwmFreq": 5000,
+            "RealPower": 15000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 4,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 4,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "103",
+        "Env": "5"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 2,
+            "WantedEffect": 1,
+            "LaserPower": 40000,
+            "Thickness": 3,
+            "NozzleDiameter": 1.2,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 50,
+            "CutHeight": 0.5,
+            "Focus": 7.5,
+            "GasPressure": 0.8,
+            "PwmFreq": 5000,
+            "RealPower": 6000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "112",
+        "Env": "6"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 10,
+            "NozzleDiameter": 1.2,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 33.3333333,
+            "CutHeight": 0.8,
+            "Focus": 11,
+            "GasPressure": 0.8,
+            "PwmFreq": 5000,
+            "RealPower": 6600.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 1,
+            "fluidSlag": 5,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "130",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 10,
+            "NozzleDiameter": 1.2,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 35,
+            "CutHeight": 0.8,
+            "Focus": 11.5,
+            "GasPressure": 1,
+            "PwmFreq": 5000,
+            "RealPower": 6600.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 1,
+            "score": 4,
+            "fluidSlag": 2,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "130",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 10,
+            "NozzleDiameter": 1.2,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 36.6666667,
+            "CutHeight": 0.8,
+            "Focus": 12,
+            "GasPressure": 1,
+            "PwmFreq": 5000,
+            "RealPower": 6600.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "130",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 10,
+            "NozzleDiameter": 1.2,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 36.6666667,
+            "CutHeight": 0.8,
+            "Focus": 12,
+            "GasPressure": 1,
+            "PwmFreq": 5000,
+            "RealPower": 6600.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 1,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "130",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 10,
+            "NozzleDiameter": 1.2,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 36.6666667,
+            "CutHeight": 0.8,
+            "Focus": 12,
+            "GasPressure": 1,
+            "PwmFreq": 5000,
+            "RealPower": 6600.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "130",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 16,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 100,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 26.6666667,
+            "CutHeight": 0.3,
+            "Focus": 15,
+            "GasPressure": 0.5,
+            "PwmFreq": 5000,
+            "RealPower": 10200.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 2,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "131",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 16,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 100,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 26.6666667,
+            "CutHeight": 0.3,
+            "Focus": 17,
+            "GasPressure": 0.55,
+            "PwmFreq": 5000,
+            "RealPower": 10200.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "131",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 18,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 150,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 25,
+            "CutHeight": 0.3,
+            "Focus": 15,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 10200.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 1,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "132",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 18,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 150,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 26.6666667,
+            "CutHeight": 0.3,
+            "Focus": 15,
+            "GasPressure": 0.55,
+            "PwmFreq": 5000,
+            "RealPower": 10200.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 1,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "132",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 18,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 150,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 26.6666667,
+            "CutHeight": 0.3,
+            "Focus": 16,
+            "GasPressure": 0.55,
+            "PwmFreq": 5000,
+            "RealPower": 10200.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "132",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 23.3333333,
+            "CutHeight": 0.3,
+            "Focus": 16.5,
+            "GasPressure": 0.7,
+            "PwmFreq": 5000,
+            "RealPower": 10800.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 2,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 2,
+            "score": 3,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "133",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 25,
+            "CutHeight": 0.3,
+            "Focus": 17,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 10800.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 1,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "133",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 25,
+            "CutHeight": 0.3,
+            "Focus": 18,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 10800.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 1,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "133",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 26.6666667,
+            "CutHeight": 0.3,
+            "Focus": 18,
+            "GasPressure": 0.8,
+            "PwmFreq": 5000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 1,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "133",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 26.6666667,
+            "CutHeight": 0.3,
+            "Focus": 18,
+            "GasPressure": 0.6,
+            "PwmFreq": 5000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "133",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 25,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 16.6666667,
+            "CutHeight": 0.3,
+            "Focus": 16.5,
+            "GasPressure": 0.7,
+            "PwmFreq": 5000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 3,
+            "breach": 0,
+            "score": 3,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "134",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 25,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 16.6666667,
+            "CutHeight": 0.3,
+            "Focus": 17,
+            "GasPressure": 0.65,
+            "PwmFreq": 5000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 2,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "134",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 25,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 18.3333333,
+            "CutHeight": 0.3,
+            "Focus": 17.5,
+            "GasPressure": 0.65,
+            "PwmFreq": 5000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "134",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 12000,
+            "Thickness": 25,
+            "NozzleDiameter": 1.6,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 16.6666667,
+            "CutHeight": 0.3,
+            "Focus": 18.5,
+            "GasPressure": 0.7,
+            "PwmFreq": 5000,
+            "RealPower": 12000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "134",
+        "Env": "7"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 18,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 25,
+            "CutHeight": 0.3,
+            "Focus": 17,
+            "GasPressure": 0.7,
+            "PwmFreq": 5000,
+            "RealPower": 10500.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 1,
+            "fluidSlag": 4,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "138",
+        "Env": "8"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 18,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 25,
+            "CutHeight": 0.3,
+            "Focus": 17,
+            "GasPressure": 0.7,
+            "PwmFreq": 5000,
+            "RealPower": 15000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 4,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 4,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "138",
+        "Env": "8"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 18,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 25,
+            "CutHeight": 0.3,
+            "Focus": 17,
+            "GasPressure": 0.7,
+            "PwmFreq": 5000,
+            "RealPower": 10500.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 1,
+            "fluidSlag": 4,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "148",
+        "Env": "9"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 18,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 25,
+            "CutHeight": 0.3,
+            "Focus": 17,
+            "GasPressure": 0.7,
+            "PwmFreq": 5000,
+            "RealPower": 15000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 4,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 4,
+            "fluidSlag": 4,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "148",
+        "Env": "9"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 60,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 4.16666667,
+            "CutHeight": 0.3,
+            "Focus": 22,
+            "GasPressure": 1.25,
+            "PwmFreq": 5000,
+            "RealPower": 30000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "15",
+        "Env": "0"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 0,
+            "LaserPower": 30000,
+            "Thickness": 60,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 5,
+            "CutHeight": 0.3,
+            "Focus": 20,
+            "GasPressure": 1.25,
+            "PwmFreq": 5000,
+            "RealPower": 30000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "15",
+        "Env": "0"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 20000,
+            "Thickness": 20,
+            "NozzleDiameter": 1.4,
+            "TimeStay": 0,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 27.5,
+            "CutHeight": 0.3,
+            "Focus": 14,
+            "GasPressure": 1.2,
+            "PwmFreq": 5000,
+            "RealPower": 14000.0
+        },
+        "Result": {
+            "hem": 0,
+            "flySlag": 0,
+            "virtualSlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "score": 1,
+            "fluidSlag": 5,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "20",
+        "Env": "10"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 60,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 4.16666667,
+            "CutHeight": 0.3,
+            "Focus": 22,
+            "GasPressure": 1.25,
+            "PwmFreq": 5000,
+            "RealPower": 30000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "49",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 0,
+            "WantedEffect": 1,
+            "LaserPower": 30000,
+            "Thickness": 60,
+            "NozzleDiameter": 2,
+            "TimeStay": 200,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 5,
+            "CutHeight": 0.3,
+            "Focus": 20,
+            "GasPressure": 1.25,
+            "PwmFreq": 5000,
+            "RealPower": 30000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "49",
+        "Env": "12"
+    },
+    {
+        "Condition_Params": {
+            "GasType": 1,
+            "Material": 0,
+            "NozzleName": 2,
+            "WantedEffect": 1,
+            "LaserPower": 40000,
+            "Thickness": 3,
+            "NozzleDiameter": 1.2,
+            "TimeStay": 50,
+            "FDFitCoefficient": 0
+        },
+        "Cut_Params": {
+            "WorkSpeed": 50,
+            "CutHeight": 0.5,
+            "Focus": 7.5,
+            "GasPressure": 0.8,
+            "PwmFreq": 5000,
+            "RealPower": 6000.0
+        },
+        "Result": {
+            "score": 5,
+            "hem": 0,
+            "flySlag": 0,
+            "bubbleSlag": 0,
+            "stratification": 0,
+            "roughness": 0,
+            "breach": 0,
+            "fluidSlag": 0,
+            "slag": 0,
+            "scum": 0,
+            "burrs": 0,
+            "overBreach": 0
+        },
+        "Id": "112",
+        "Env": "6"
+    }
+]

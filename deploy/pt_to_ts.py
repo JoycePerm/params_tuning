@@ -1,22 +1,3 @@
-# import torch
-# from net import ContNet
-
-# x_dim, c_dim, y_dim, h_dim = 5, 5, 11, 32
-# model = ContNet(x_dim, c_dim, y_dim, h_dim)
-# model.eval()
-
-# scripted_model = torch.jit.script(model)
-# scripted_model.save("deploy/dynamic_model_scripted.pt")
-
-# input_x = torch.rand(1, 5)
-# input_c = torch.rand(1, 5)
-
-# traced_model = torch.jit.trace(model, (input_x, input_c))
-# traced_model.save("deploy/static_model_traced.pt")
-# print(traced_model.graph)
-
-# deploy/pt_to_ts.py
-
 import torch
 from process_bn import fuse_model
 import sys

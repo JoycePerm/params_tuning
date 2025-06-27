@@ -1,5 +1,5 @@
 # params_tuning
-Recommend parameter adjustment based on given cutting parameters and condition parameters
+Recommend parameter adjustment based on given cutting parameters and condition parameters.
 
 Calculate parameter adjustments using the gradient backpropagation method with a specified step size.
 
